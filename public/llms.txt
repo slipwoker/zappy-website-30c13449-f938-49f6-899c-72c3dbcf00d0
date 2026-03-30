@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+צילום סרטוני תדמית ושיווק לעסקים שרוצים לבלוט. מצילומי תדמית מקצועיים ועד סרטוני בינה מלאכותית — כל הפתרונות הויזואליים שהעסק שלך צריך, במקום אחד.
+
+### שירותים
+https://example.com/services
+מצילום סרטונים מקצועי ועד סרטון פרסומת בבינה מלאכותית — גלה את מגוון שירותי הפקת התוכן הויזואלי שיהפכו את המותג שלך לבלתי נשכח בכל פלטפורמה.
+
+### אודות
+https://example.com/about
+שני אמסלם היא מומחית לצילומי תדמית והפקת תוכן ויזואלי לעסקים, המשלבת ניסיון בצילום מקצועי עם כלי בינה מלאכותית מתקדמים ליצירת תוכן שמוכר ומרשים.
+
+### צור קשר
+https://example.com/contact
+רוצים לקדם את העסק עם צילום סרטוני תדמית ושיווק ברמה הגבוהה ביותר? צרו קשר עכשיו ונבנה יחד אסטרטגיית תוכן ויזואלי שתוביל את המותג שלכם קדימה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
