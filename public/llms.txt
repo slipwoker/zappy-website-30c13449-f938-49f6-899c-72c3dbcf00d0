@@ -7,34 +7,55 @@
 ## Pages
 
 ### בית
-https://shaniamsalem.zappy5.app
+https://shaniamsalem.co.il
 צילום סרטוני תדמית ושיווק לעסקים שרוצים לבלוט. מצילומי תדמית מקצועיים ועד סרטוני בינה מלאכותית — כל הפתרונות הויזואליים שהעסק שלך צריך, במקום אחד.
 
 ### שירותים
-https://shaniamsalem.zappy5.app/services
+https://shaniamsalem.co.il/services
 מצילום סרטונים מקצועי ועד סרטון פרסומת בבינה מלאכותית — גלה את מגוון שירותי הפקת התוכן הויזואלי שיהפכו את המותג שלך לבלתי נשכח בכל פלטפורמה.
 
 ### אודות
-https://shaniamsalem.zappy5.app/about
+https://shaniamsalem.co.il/about
 שני אמסלם היא מומחית לצילומי תדמית והפקת תוכן ויזואלי לעסקים, המשלבת ניסיון בצילום מקצועי עם כלי בינה מלאכותית מתקדמים ליצירת תוכן שמוכר ומרשים.
 
 ### צור קשר
-https://shaniamsalem.zappy5.app/contact
+https://shaniamsalem.co.il/contact
 רוצים לקדם את העסק עם צילום סרטוני תדמית ושיווק ברמה הגבוהה ביותר? צרו קשר עכשיו ונבנה יחד אסטרטגיית תוכן ויזואלי שתוביל את המותג שלכם קדימה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://shaniamsalem.zappy5.app/privacy
+https://shaniamsalem.co.il/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://shaniamsalem.zappy5.app/terms
+https://shaniamsalem.co.il/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://shaniamsalem.zappy5.app/accessibility
+https://shaniamsalem.co.il/accessibility
 Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- Email: shanisstudio@gmail.com
+- Phone: +972542394866
+- Phone (tel): tel:+972542394866
+- Address: חרמון 5, אור יהודה, 6041910, ישראל
+
+### Contact form
+- URL: https://shaniamsalem.co.il/contact
+- Endpoint: https://shaniamsalem.co.il/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
 
 ---
 
@@ -59,7 +80,8 @@ A creative professional specializing in still photography, video production, and
 
 ---
 
-# Additional Resources
+# Machine-readable feeds
 
-- **Sitemap**: https://shaniamsalem.zappy5.app/sitemap.xml
-- **Robots.txt**: https://shaniamsalem.zappy5.app/robots.txt
+- Sitemap (XML): https://shaniamsalem.co.il/sitemap.xml
+- Robots: https://shaniamsalem.co.il/robots.txt
+- Flattened page text (for LLMs): https://shaniamsalem.co.il/llms-full.txt

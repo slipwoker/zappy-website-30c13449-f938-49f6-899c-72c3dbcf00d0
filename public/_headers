@@ -1,6 +1,10 @@
 # Headers configuration for Render static hosting
 # Ensures correct MIME types for all file types
 
+/*-og.jpg
+  Content-Type: image/jpeg
+  Cache-Control: public, max-age=31536000, no-transform
+
 /*.css
   Content-Type: text/css; charset=utf-8
 
@@ -45,6 +49,12 @@
 
 /*.webp
   Content-Type: image/webp
+
+/*.glb
+  Content-Type: model/gltf-binary
+
+/*.gltf
+  Content-Type: model/gltf+json
 
 /*.html
   Content-Type: text/html; charset=utf-8
